@@ -21,9 +21,7 @@ import javax.swing.text.StyleConstants;
 public class Main {
 
     private JFileChooser f= new JFileChooser();
-
     private final String NAME="Новый файл";
-
     private JTabbedPane tabs = new JTabbedPane();
 
     public static void main(String[] args) {
